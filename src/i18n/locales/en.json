@@ -123,8 +123,6 @@
     "gitlab": "GitLab",
     "gitlab_audience": "Audience",
     "gitlab_jwks_path": "GitLab JWKS Path",
-    "gitlab_integration": "GitLab",
-    "integration_gitlab_enable": "Enable GitLab Integration",
     "go_modules": "Go Modules",
     "group": "Group",
     "hackage": "Hackage",
